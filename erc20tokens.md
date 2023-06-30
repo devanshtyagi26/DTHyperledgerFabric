@@ -31,6 +31,9 @@
 
 ### 6. Leveraging the 20Lab Website for Token Management and Analytics
 #### The 20Lab website offers powerful features for managing and analyzing your ERC-20 tokens. By integrating your token with the 20Lab platform, you can access a range of functionalities including:
+
+![image](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/80c22aa2-3bcf-4268-9563-3148b7a51364)
+
 ####
 #### Real-time token analytics: Monitor your token's performance, transaction volume, and user activity.
 #### Token management tools: Execute token transfers, manage token holders, and configure token settings effortlessly.
