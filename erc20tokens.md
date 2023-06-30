@@ -11,6 +11,9 @@
 
 ### 2. Setting up Metamask
 #### Metamask is a browser extension and mobile application that serves as an Ethereum wallet, allowing users to interact with dApps, manage cryptocurrencies, and securely store digital assets. To get started with Metamask, follow these steps:
+
+![Screenshot 2023-06-30 144051](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/be48ad4c-6808-492f-8ac5-ae9ea546a382)
+
 ####
 #### Install Metamask from the official website or your browser's extension store.
 #### Create a new wallet and securely store your seed phrase.
@@ -18,12 +21,21 @@
 
 ### 3. Exploring the Goerli Testnet Faucet
 #### The Goerli testnet faucet is a valuable resource for developers and users looking to acquire test Ether (ETH) on the Goerli testnet. By visiting the Goerli faucet website and following their instructions, you can obtain test ETH that will allow you to interact with the Ethereum network without spending real money.
+#### Visit this website:
+    https://goerli-faucet.pk910.de/
+
+![Screenshot 2023-06-30 145551](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/12f6911f-151f-4aa6-be5e-9cd74d0bbda4)
 
 ### 4. Deploying Your Token to the Ethereum Network
 #### Once you have written your ERC-20 token contract, you can deploy it to the Ethereum network. This step allows you to make your token accessible to users and interact with it. Tools like Remix or Truffle can help you compile and deploy your contract. Once deployed, your token will be assigned a unique contract address on the Ethereum blockchain.
 
+![Screenshot 2023-06-30 144214](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/b2c8a9e6-e366-4992-a758-8ccd626af6c3)
+
 ### 5. Interacting with Your Token Using Metamask
 #### With your token deployed to the Ethereum network, you can interact with it using Metamask. Here's how:
+
+![Screenshot 2023-06-30 144136](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/ad7c33fd-c03f-4e6a-a9be-e678587a2212)
+
 ####
 #### Access your Metamask wallet and ensure it is connected to the appropriate Ethereum network (mainnet or testnet).
 #### Add your custom token to Metamask using the token's contract address.
