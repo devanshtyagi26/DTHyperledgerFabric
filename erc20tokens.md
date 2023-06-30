@@ -28,6 +28,8 @@
 
 ### 4. Deploying Your Token to the Ethereum Network
 #### Once you have written your ERC-20 token contract, you can deploy it to the Ethereum network. This step allows you to make your token accessible to users and interact with it. Tools like Remix or Truffle can help you compile and deploy your contract. Once deployed, your token will be assigned a unique contract address on the Ethereum blockchain.
+#### Visit this site:
+    https://etherscan.io/
 
 ![Screenshot 2023-06-30 144214](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/b2c8a9e6-e366-4992-a758-8ccd626af6c3)
 
@@ -47,6 +49,8 @@
 ![image](https://github.com/devanshtyagi26/DTHyperledgerFabric/assets/118974690/80c22aa2-3bcf-4268-9563-3148b7a51364)
 
 ####
+#### Visit the site
+    https://20lab.app/
 #### Real-time token analytics: Monitor your token's performance, transaction volume, and user activity.
 #### Token management tools: Execute token transfers, manage token holders, and configure token settings effortlessly.
 #### Smart contract auditing: Ensure the security and reliability of your token's smart contract through comprehensive auditing services.
